@@ -1,0 +1,20 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+russian_nofraglit_cbow_8_min_df=3_dict_subset.npz
+russian_nofraglit_cbow_8_min_df=3_dict_subset.npy
+russian_nofraglit_cbow_8_min_df=3_dict.npy
+russian_nofraglit_SVD_dict_subset.npy
+russian_nofraglit_SVD_dict_subset.npz
+russian_nofraglit_SVD_dict.npy
+russian_cleanlit_SVD_32_subset.npy
+russian_cleanlit_SVD_32_subset.npz
+russian_cleanlit_SVD_32.npy
+pyvenv.cfg
+Pkg/
+npz_to_txt.jl
+npy_npz.py
+holes_bounds.npz
+bin/
+include/
+lib/
+words/
+
